@@ -119,6 +119,8 @@
 ### Steering
 
 - #### **_Production_**
+  
+  For this production there is a path follower, a pursuer going after the path follower, and a seperator avoiding the pursuer.
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Steering_Pro.gif?raw=true)
 
