@@ -51,6 +51,8 @@
 
 - #### **_Development_**
   
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Dijkstra_Dev.gif?raw=true)
+    
   ![image](https://user-images.githubusercontent.com/49692399/117160420-f1890600-ad75-11eb-8f8d-f84b3d72b83c.png)
   
   _An image of the graph, as it does not show in the WebGL build_
@@ -58,6 +60,8 @@
   Click [here](https://fractureddiamond.github.io/AI_Dijkstra_Development/) to try it out!
   
 - #### **_Production_**
+
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Dijkstra_Pro.gif?raw=true)
 
   Click [here](https://fractureddiamond.github.io/AI_Dijkstra_Production/) to try it out!
   
