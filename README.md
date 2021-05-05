@@ -132,6 +132,8 @@
   
 - #### **_Production_**
 
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/BehaviorTree_Pro.gif?raw=true)
+  
   > _Behavior Trees Production_
 
   Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Production_V02/) to try it out!
