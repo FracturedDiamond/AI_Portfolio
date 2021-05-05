@@ -124,6 +124,8 @@
 
   > _An image of the behavior tree_
   
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/BehaviorTree_Dev.gif?raw=true)
+  
   > _Behavior Trees Development_
   
   Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Development/) to try it out!
