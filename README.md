@@ -96,7 +96,7 @@
   As this project was still in development, the enemy does not move to cover. However it does register
   for other branches and change color!
   
-  ![image](https://user-images.githubusercontent.com/49692399/117162634-cc959280-ad77-11eb-8e28-6c6393a801bf.png)
+  <img src="https://user-images.githubusercontent.com/49692399/117162634-cc959280-ad77-11eb-8e28-6c6393a801bf.png" width=50% height=50%>
   
   _An image of the behavior tree_
   
