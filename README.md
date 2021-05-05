@@ -5,9 +5,9 @@
 
 -----------------------------------------------------------------------------------------------
 
-**AI Fundamentals**
+## AI Fundamentals
 
-- **_Development_**
+- ### **_Development_**
 
   This project development is experimenting with different steering behaviors, such as seek, arrive, flee, target, and wander.
 
@@ -17,7 +17,7 @@
 
   ---------------------------------------------------------------------------------------------
   
-- **_Production_**
+- ### **_Production_**
 
   For this production, I implemented pathfind and pursue! There is a seeker, arriver, fleer, target, wanderer, path follower, and a pursuer.
 
@@ -29,15 +29,15 @@
 
 -----------------------------------------------------------------------------------------------
 
-**Flocking**
+## Flocking
 
-- **_Development_**
+- ### **_Development_**
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Flocking_Dev.gif?raw=true)
 
   Click [here](https://fractureddiamond.github.io/AI_Flocking_Development/) to try it out!
   
-- **_Production_**
+- ### **_Production_**
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Flocking_Pro.gif?raw=true)
 
@@ -47,9 +47,9 @@
 
 -----------------------------------------------------------------------------------------------
 
-**Dijkstra**
+## Dijkstra
 
-- **_Development_**
+- ### **_Development_**
   
   ![image](https://user-images.githubusercontent.com/49692399/117160420-f1890600-ad75-11eb-8f8d-f84b3d72b83c.png)
   
@@ -57,7 +57,7 @@
   
   Click [here](https://fractureddiamond.github.io/Dijkstra_Development/) to try it out!
   
-- **_Production_**
+- ### **_Production_**
 
   Click [here](https://fractureddiamond.github.io/Dijkstra_Production/) to try it out!
   
@@ -65,9 +65,9 @@
 
 -----------------------------------------------------------------------------------------------
 
-**NavMesh**
+## NavMesh
   
-- **_Production_**
+- ### **_Production_**
 
   Click [here](https://fractureddiamond.github.io/NavMesh_Production/) to try it out!
   
@@ -75,9 +75,9 @@
 
 -----------------------------------------------------------------------------------------------
 
-**Steering**
+## Steering
 
-- **_Production_**
+- ### **_Production_**
 
   Click [here](https://fractureddiamond.github.io/AI_Steering_Production/) to try it out!
   
@@ -85,9 +85,9 @@
 
 -----------------------------------------------------------------------------------------------
 
-**Behavior Trees**
+## Behavior Trees
 
-- **_Development_**
+- ### **_Development_**
   
   As this project was still in development, the enemy does not move to cover. However it does register
   for other branches and change color!
@@ -98,7 +98,7 @@
   
   Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Development/) to try it out!
   
-- **_Production_**
+- ### **_Production_**
 
   Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Production_V02/) to try it out!
   
