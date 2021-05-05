@@ -1,6 +1,5 @@
 # Artificial Intelligence Class Portfolio
-## Spring 2021
-### Rebecca Kent
+## Spring 2021 // Rebecca Kent
 
 -----------------------------------------------------------------------------------------------
 
