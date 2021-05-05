@@ -8,7 +8,7 @@
 
 - **_Development_**
 
-  ![image](https://user-images.githubusercontent.com/49692399/117167341-05d00180-ad7c-11eb-939a-7c215ffb7bdc.png)
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Fundamentals_Dev.gif?raw=true)
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals/) to try it out!
 
@@ -18,7 +18,7 @@
 
   ![image](https://user-images.githubusercontent.com/49692399/117167383-0ec0d300-ad7c-11eb-8d3d-f936e95af669.png)
 
-  https://fractureddiamond.github.io/AI_Fundamentals_Production/
+  Click [here](https://fractureddiamond.github.io/AI_Fundamentals_Production/) to try it out!
   
 -----------------------------------------------------------------------------------------------
 
@@ -30,11 +30,11 @@
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/FlockingGif.gif?raw=true)
 
-  https://fractureddiamond.github.io/AI_Flocking_Development/
+  Click [here](https://fractureddiamond.github.io/AI_Flocking_Development/) to try it out!
   
 - **_Production_**
 
-  https://fractureddiamond.github.io/AI_Flocking_Production/
+  Click [here](https://fractureddiamond.github.io/AI_Flocking_Production/) to try it out!
   
 -----------------------------------------------------------------------------------------------
 
@@ -48,11 +48,11 @@
   
   _An image of the graph, as it does not show in the WebGL build_
   
-  https://fractureddiamond.github.io/Dijkstra_Development/
+  Click [here](https://fractureddiamond.github.io/Dijkstra_Development/) to try it out!
   
 - **_Production_**
 
-  https://fractureddiamond.github.io/Dijkstra_Production/
+  Click [here](https://fractureddiamond.github.io/Dijkstra_Production/) to try it out!
   
 -----------------------------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@
   
 - **_Production_**
 
-  https://fractureddiamond.github.io/NavMesh_Production/
+  Click [here](https://fractureddiamond.github.io/NavMesh_Production/) to try it out!
   
 -----------------------------------------------------------------------------------------------
 
@@ -72,7 +72,7 @@
 
 - **_Production_**
 
-  https://fractureddiamond.github.io/AI_Steering_Production/
+  Click [here](https://fractureddiamond.github.io/AI_Steering_Production/) to try it out!
   
 -----------------------------------------------------------------------------------------------
 
@@ -89,13 +89,10 @@
   
   _An image of the behavior tree_
   
-  https://fractureddiamond.github.io/AI_BehaviorTrees_Development/
+  Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Development/) to try it out!
   
 - **_Production_**
 
-  https://fractureddiamond.github.io/AI_BehaviorTrees_Production_V02/
+  Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Production_V02/) to try it out!
   
   
-
-
-
