@@ -9,6 +9,8 @@
 
 - **_Development_**
 
+  This project development is experimenting with different steering behaviors, such as seek, wander, arrive, and align.
+
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Fundamentals_Dev.gif?raw=true)
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals/) to try it out!
@@ -17,7 +19,9 @@
   
 - **_Production_**
 
-  ![image](https://user-images.githubusercontent.com/49692399/117167383-0ec0d300-ad7c-11eb-8d3d-f936e95af669.png)
+  For this production, there is a seeker, arriver, fleer, target, wanderer, path follower, and a pursuer.
+
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Fundamentals_Pro.gif?raw=true)
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals_Production/) to try it out!
   
@@ -29,11 +33,13 @@
 
 - **_Development_**
 
-  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/FlockingGif.gif?raw=true)
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Flocking_Dev.gif?raw=true)
 
   Click [here](https://fractureddiamond.github.io/AI_Flocking_Development/) to try it out!
   
 - **_Production_**
+
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Flocking_Pro.gif?raw=true)
 
   Click [here](https://fractureddiamond.github.io/AI_Flocking_Production/) to try it out!
   
