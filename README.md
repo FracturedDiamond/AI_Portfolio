@@ -28,7 +28,7 @@
 
 - **_Development_**
 
-  ![FlockingGif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/FlockingGif.gif)
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/FlockingGif.gif)
 
   https://fractureddiamond.github.io/AI_Flocking_Development/
   
