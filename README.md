@@ -53,7 +53,7 @@
   
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Dijkstra_Dev.gif?raw=true)
   
-  <img src="https://user-images.githubusercontent.com/49692399/117160420-f1890600-ad75-11eb-8f8d-f84b3d72b83c.png" width=50% height=50%>
+  <img src="https://user-images.githubusercontent.com/49692399/117160420-f1890600-ad75-11eb-8f8d-f84b3d72b83c.png" width="480" height="270">
 
   _An image of the graph, as it does not show in the WebGL build_
   
@@ -96,7 +96,7 @@
   As this project was still in development, the enemy does not move to cover. However it does register
   for other branches and change color!
   
-  <img src="https://user-images.githubusercontent.com/49692399/117162634-cc959280-ad77-11eb-8e28-6c6393a801bf.png" width=50% height=50%>
+  <img src="https://user-images.githubusercontent.com/49692399/117162634-cc959280-ad77-11eb-8e28-6c6393a801bf.png" width="480" height="270">
   
   _An image of the behavior tree_
   
