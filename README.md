@@ -8,11 +8,15 @@
 
 - **_Development_**
 
+  ![image](https://user-images.githubusercontent.com/49692399/117167341-05d00180-ad7c-11eb-939a-7c215ffb7bdc.png)
+
   https://fractureddiamond.github.io/AI_Fundamentals/
 
   ---------------------------------------------------------------------------------------------
   
 - **_Production_**
+
+  ![image](https://user-images.githubusercontent.com/49692399/117167383-0ec0d300-ad7c-11eb-8d3d-f936e95af669.png)
 
   https://fractureddiamond.github.io/AI_Fundamentals_Production/
   
