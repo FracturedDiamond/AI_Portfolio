@@ -37,6 +37,8 @@
 
 - #### **_Development_**
 
+  For this development project I experimented with flocking behaviors.
+
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Flocking_Dev.gif?raw=true)
 
   > _Flocking Development_
@@ -46,6 +48,8 @@
   ---------------------------------------------------------------------------------------------
   
 - #### **_Production_**
+
+  For this production I added aesthetics!
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Flocking_Pro.gif?raw=true) 
 
@@ -60,6 +64,8 @@
 ### DIJKSTRA
 
 - #### **_Development_**
+
+  For this development the map is static and unchangeable (an image of the map/graph is shown below).
   
   <img src="https://user-images.githubusercontent.com/49692399/117160420-f1890600-ad75-11eb-8f8d-f84b3d72b83c.png" width="480" height="270">
 
@@ -74,6 +80,8 @@
   ---------------------------------------------------------------------------------------------
   
 - #### **_Production_**
+  
+  For this production the player can adjust the map and add teleportation and toll roads!
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Dijkstra_Pro.gif?raw=true)
 
@@ -88,6 +96,8 @@
 ### NAVMESH
   
 - #### **_Production_**
+
+  For this project, the player can click around the map and move around obstacles, and the red flying cubes can nudge the player if they are in the path.
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/NavMesh_Pro.gif?raw=true)
 
@@ -131,6 +141,8 @@
   Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Development/) to try it out!
   
 - #### **_Production_**
+  
+  The enemy now moves to cover!
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/BehaviorTree_Pro.gif?raw=true)
   
