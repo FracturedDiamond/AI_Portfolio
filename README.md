@@ -16,6 +16,7 @@
   > _AI Fundamentals Development_
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_Fundamentals) for the GitHub page!
   
   ---------------------------------------------------------------------------------------------
   
@@ -28,6 +29,7 @@
   > _AI Fundamentals Production_
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals_Production/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_Fundamentals_Production) for the GitHub page.
   
 -----------------------------------------------------------------------------------------------
 
@@ -44,6 +46,7 @@
   > _Flocking Development_
 
   Click [here](https://fractureddiamond.github.io/AI_Flocking_Development/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_Flocking_Development) for the GitHub page.
 
   ---------------------------------------------------------------------------------------------
   
@@ -56,6 +59,7 @@
   > _Flocking Production_
 
   Click [here](https://fractureddiamond.github.io/AI_Flocking_Production/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_Flocking_Production) for the GitHub page.
   
 -----------------------------------------------------------------------------------------------
 
@@ -76,6 +80,7 @@
   > _Dijkstra Development_
   
   Click [here](https://fractureddiamond.github.io/AI_Dijkstra_Development/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_Dijkstra_Development) for the GitHub page.
 
   ---------------------------------------------------------------------------------------------
   
@@ -88,6 +93,7 @@
   > _Dijkstra Production_
 
   Click [here](https://fractureddiamond.github.io/AI_Dijkstra_Production/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_Dijkstra_Production) for the GitHub page.
   
 -----------------------------------------------------------------------------------------------
 
@@ -104,6 +110,7 @@
   > _NavMesh Production_
 
   Click [here](https://fractureddiamond.github.io/AI_NavMesh_Production/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_NavMesh_Production) for the GitHub page.
   
 -----------------------------------------------------------------------------------------------
 
@@ -118,6 +125,7 @@
   > _Steering Production_
 
   Click [here](https://fractureddiamond.github.io/AI_Steering_Production/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_Steering_Production) for the GitHub page.
   
 -----------------------------------------------------------------------------------------------
 
@@ -139,6 +147,7 @@
   > _Behavior Trees Development_
   
   Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Development/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_BehaviorTrees_Development) for the GitHub page.
   
 - #### **_Production_**
   
@@ -149,5 +158,6 @@
   > _Behavior Trees Production_
 
   Click [here](https://fractureddiamond.github.io/AI_BehaviorTrees_Production_V02/) to try it out!
+  Click [here](https://github.com/FracturedDiamond/AI_BehaviorTrees_Production_V02) for the GitHub page.
   
   
