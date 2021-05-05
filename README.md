@@ -28,7 +28,7 @@
 
 - **_Development_**
 
-  https://media.giphy.com/media/FfqNFfPgcZMUCnGy6Y/giphy.gif
+  ![image](https://user-images.githubusercontent.com/49692399/117168590-25b3f500-ad7d-11eb-9ee9-028edbfc46ca.png)
 
   https://fractureddiamond.github.io/AI_Flocking_Development/
   
