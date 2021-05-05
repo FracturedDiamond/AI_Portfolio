@@ -102,6 +102,7 @@
 
 - #### **_Production_**
 
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Steering_Pro.gif?raw=true)
   > _Steering Production_
 
   Click [here](https://fractureddiamond.github.io/AI_Steering_Production/) to try it out!
