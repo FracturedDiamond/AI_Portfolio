@@ -10,7 +10,7 @@
 
   ![image](https://user-images.githubusercontent.com/49692399/117167341-05d00180-ad7c-11eb-939a-7c215ffb7bdc.png)
 
-  [Development](https://fractureddiamond.github.io/AI_Fundamentals/)
+  Click [here](https://fractureddiamond.github.io/AI_Fundamentals/) to try it out!
 
   ---------------------------------------------------------------------------------------------
   
