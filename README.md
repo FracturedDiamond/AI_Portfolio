@@ -89,7 +89,7 @@
   
 - #### **_Production_**
 
-  [gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/NavMesh_Pro.gif?raw=true)
+  ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/NavMesh_Pro.gif?raw=true)
   > _NavMesh Production_
 
   Click [here](https://fractureddiamond.github.io/AI_NavMesh_Production/) to try it out!
