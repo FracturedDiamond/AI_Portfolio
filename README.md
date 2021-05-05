@@ -17,6 +17,8 @@
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals/) to try it out!
   
+-----------------------------------------------------------------------------------------------
+  
 - #### **_Production_**
 
   For this production, I implemented pathfind and pursue! There is a seeker, arriver, fleer, target, wanderer, path follower, and a pursuer.
@@ -40,6 +42,8 @@
   > _Flocking Development_
 
   Click [here](https://fractureddiamond.github.io/AI_Flocking_Development/) to try it out!
+
+-----------------------------------------------------------------------------------------------
   
 - #### **_Production_**
 
@@ -66,6 +70,8 @@
   > _Dijkstra Development_
   
   Click [here](https://fractureddiamond.github.io/AI_Dijkstra_Development/) to try it out!
+
+-----------------------------------------------------------------------------------------------
   
 - #### **_Production_**
 
