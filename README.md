@@ -16,8 +16,6 @@
   > _AI Fundamentals Development_
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals/) to try it out!
-
-  ---------------------------------------------------------------------------------------------
   
 - #### **_Production_**
 
