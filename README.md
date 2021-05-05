@@ -55,11 +55,11 @@
   
   _An image of the graph, as it does not show in the WebGL build_
   
-  Click [here](https://fractureddiamond.github.io/Dijkstra_Development/) to try it out!
+  Click [here](https://fractureddiamond.github.io/AI_Dijkstra_Development/) to try it out!
   
 - #### **_Production_**
 
-  Click [here](https://fractureddiamond.github.io/Dijkstra_Production/) to try it out!
+  Click [here](https://fractureddiamond.github.io/AI_Dijkstra_Production/) to try it out!
   
 -----------------------------------------------------------------------------------------------
 
