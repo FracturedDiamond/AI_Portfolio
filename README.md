@@ -9,7 +9,7 @@
 
 - **_Development_**
 
-  This project development is experimenting with different steering behaviors, such as seek, wander, arrive, and align.
+  This project development is experimenting with different steering behaviors, such as seek, arrive, flee, target, and wander.
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Fundamentals_Dev.gif?raw=true)
 
@@ -19,7 +19,7 @@
   
 - **_Production_**
 
-  For this production, there is a seeker, arriver, fleer, target, wanderer, path follower, and a pursuer.
+  For this production, I implemented pathfind and pursue! There is a seeker, arriver, fleer, target, wanderer, path follower, and a pursuer.
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Fundamentals_Pro.gif?raw=true)
 
