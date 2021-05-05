@@ -13,7 +13,7 @@
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Fundamentals_Dev.gif?raw=true)
   
-  > _AI Fundementals Development_
+  > _AI Fundamentals Development_
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals/) to try it out!
 
@@ -25,7 +25,7 @@
 
   ![gif](https://github.com/FracturedDiamond/AI_Portfolio/blob/main/PNGs/Fundamentals_Pro.gif?raw=true)
 
-  > _AI Fundementals Production_
+  > _AI Fundamentals Production_
 
   Click [here](https://fractureddiamond.github.io/AI_Fundamentals_Production/) to try it out!
   
